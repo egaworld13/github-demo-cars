@@ -13,3 +13,11 @@ United States
 #5	
 Sumitomo 
 Japan
+#6	Hankook	
+South Korea
+#7	Pirelli	
+Italy
+#8	Yokohama	
+Japan
+#9	ZC Rubber	
+China
