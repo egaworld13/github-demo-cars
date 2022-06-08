@@ -15,3 +15,26 @@ Audi
 
 1994-Present
 Smart
+
+USA
+
+1903-Present
+Ford
+
+1911-Present
+Chevrolet
+
+1941-Present
+Jeep
+
+1911-Present
+GMC
+
+1903-Present
+Buick
+
+1900-Present
+Dodge
+
+2010-Present
+RAM
