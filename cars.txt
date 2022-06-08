@@ -1,3 +1,4 @@
+Germany:
 1909-Present
 Maybach
 
@@ -45,3 +46,8 @@ BMW Brazil (2014)
 Caterpillar Brazil (1960)
 Chamonix (1987)
 Comil (1985)
+
+Bycicles:
+Cycleurope AB based in Stockholm (Sweden),
+Derby Cycle Corporation in Cloppenburg (Germany), and
+Dorel Industries in Montreal, Quebec (Canada).
