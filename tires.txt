@@ -1,0 +1,15 @@
+#1	
+Michelin 
+France
+#2	
+Bridgestone 
+Japan
+#3	
+Continental 
+Germany
+#4	
+Goodyear 
+United States
+#5	
+Sumitomo 
+Japan
