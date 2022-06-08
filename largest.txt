@@ -13,3 +13,15 @@ United States
 #5	
 Honda 
 Japan
+#6	
+General Motors	
+United States
+#7
+BMW
+Germany
+#7
+SAIC
+China
+#8
+FAW Group
+China
