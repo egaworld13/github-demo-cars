@@ -2,3 +2,8 @@ Red
 Blue
 Green
 Others
+Yelow
+Green
+Organe
+Black
+White
