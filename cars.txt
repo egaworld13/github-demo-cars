@@ -1,23 +1,7 @@
 
 21	21	Suzuki Motors logoSuzuki	Japan
 22	22	Mazda Motors logoMazda	Japan
-23	23	Subaru logoSubaru	Japan
-9	Nissan logoNissan	Japan
-13	14	BAIC logoBAIC Group	China
-14	16	GAC Group logoGAC Group	China
-15	17	Kia logoKia	South Korea
-16	15	Renault logoRenault	France
-17	18	Geely logoGeely	China
-18	19	Volvo logoVolvo	Sweden
-19	20	Tata Motors logoTata	India
-20	N/A	Tesla logoTesla	United Sta
-1994-Present
-Smart
-USA
-1903-Present
-Ford
-1911-Present
-Chevrolet
+23
 1941-Present
 Jeep
 1911-Present

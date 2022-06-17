@@ -2,22 +2,5 @@
 Michelin 
 France
 #2	
-Bridgestone 
-Japan
-#3	
-Continental 
-Germany
-#4	
-Goodyear 
-United States
-#5	
-Sumitomo 
-Japan
-#6	Hankook	
-South Korea
-#7	Pirelli	
-Italy
-#8	Yokohama	
-Japan
-#9	ZC Rubber	
+Bri
 China

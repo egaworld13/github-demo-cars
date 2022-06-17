@@ -5,23 +5,4 @@ Japan
 Volkswagen 1
 Germany
 #3	
-Daimler 
-Germany
-#4	
-Ford 
-United States
-#5	
-Honda 
-Japan
-#6	
-General Motors	
-United States
-#7
-BMW
-Germany
-#7
-SAIC
-China
-#8
-FAW Group
 China
